@@ -4,6 +4,6 @@
     {id="item-1", name="Forest A", ip="137",  intensity="010e9aee-494c-4664-8858-d54009f25bfe",scene="de540670-9cb8-4fb8-bb9d-8558ea32d03f", pin="" },
     {id="item-4", name="602 A / 6.15 2G", ip="136", intensity="0b690d9f-8b39-4811-9f5f-4e58992dd599", scene="668ff2b7-8c5e-440d-aa07-529275f2ad0c", pin="371661" },
     {id="item-5", name="602 B / 6.15 1G", ip="136", intensity="aed753b9-23f3-4f16-aca3-8233ce54ee7e", scene="a5d315b1-bd0e-4c90-acc4-a7d1120cb711", pin="371661" },
-    {id="item-6", name="602 C / 6.15 3G", ip="136", intensity="77c9ebd8-63a3-424b-b0df-01309a62ff1a", scene="b17afb24-6f24-4c6e-b3fa-bca38ea2eff7", pin="371661" },
+    {id="item-6", name="602 C / 6.15 3G", ip="136", intensity="77c9ebd8-63a3-424b-b0df-01309a62ff1a", scene="b17afb24-6f24-4c6e-b3fa-bca38ea2eff7", pin="371661" }
   ]
 } 
