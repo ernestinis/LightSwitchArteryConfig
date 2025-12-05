@@ -1,6 +1,9 @@
 {
   "minVersion" : 3,
   "items":[
+    {"id":"item-Gy1", "name":"GyvateA", "ip":"136", "intensity":"1ff0bf86-7bc7-44ba-bef0-62faf7f5118d", "scene":"1ff0bf86-7bc7-44ba-bef0-62faf7f5118d", "pin":"" },
+    {"id":"item-Gy2", "name":"GyvateB", "ip":"136", "intensity":"09c6efe7-0689-44b9-beb1-c1e449332c58", "scene":"09c6efe7-0689-44b9-beb1-c1e449332c58", "pin":"" },
+    
     {"id":"item-1", "name":"Forest A", "ip":"137",  "intensity":"010e9aee-494c-4664-8858-d54009f25bfe","scene":"de540670-9cb8-4fb8-bb9d-8558ea32d03f", "pin":"" },
     {"id":"item-4", "name":"602 A / 6.15 2G", "ip":"136", "intensity":"0b690d9f-8b39-4811-9f5f-4e58992dd599", "scene":"668ff2b7-8c5e-440d-aa07-529275f2ad0c", "pin":"371661" },
     {"id":"item-5", "name":"602 B / 6.15 1G", "ip":"136", "intensity":"aed753b9-23f3-4f16-aca3-8233ce54ee7e", "scene":"a5d315b1-bd0e-4c90-acc4-a7d1120cb711", "pin":"371661" },
@@ -14,6 +17,7 @@
     {"id":"item-D", "name":"6.04 B / 6.8 2G", "ip":"136", "intensity":"0d691290-a589-42c7-821e-28f909c6a838", "scene":"9f8fe13e-c27c-45d9-ab07-ae327f0e18b4", "pin":"" },
     {"id":"item-E", "name":"6.04 C / 6.8 3G", "ip":"136", "intensity":"09309a5b-f821-4bba-b2e1-5ba0591175e5", "scene":"909f86da-b20c-4842-8b95-4243bf78a66f", "pin":"" },
     {"id":"item-F", "name":"6.04 D / 6.8 4G", "ip":"136", "intensity":"dd9c8990-492a-4b31-9dbd-aa353b162559", "scene":"89a4bab6-79cf-4031-a94c-e1da4f7a360c", "pin":"" }
+    
   ]
 } 
 
